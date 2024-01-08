@@ -17,8 +17,8 @@ Remove a book from the system.
 
 
 # Technologies Used
-# # Express.js: A web application framework for Node.js.
-# # MySQL: A relational database management system.
-# # EJS: A simple templating language that lets you generate HTML markup with plain JavaScript.
-# # Body-Parser: Middleware to handle HTTP POST requests.
-# # Nodemon: Utility to automatically restart the server during development.
+** Express.js: A web application framework for Node.js.
+** MySQL: A relational database management system.
+** EJS: A simple templating language that lets you generate HTML markup with plain JavaScript.
+** Body-Parser: Middleware to handle HTTP POST requests.
+** Nodemon: Utility to automatically restart the server during development.
